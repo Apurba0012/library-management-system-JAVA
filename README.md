@@ -40,7 +40,7 @@ The user interface was designed using JavaFX and Scene Builder, allowing for a v
 *   Java
 *   JavaFX
 *   Scene Builder
-*   Eclipse (likely)
+*   Eclipse 
 ## Screenshots
 
 Here are some screenshots of the application:
